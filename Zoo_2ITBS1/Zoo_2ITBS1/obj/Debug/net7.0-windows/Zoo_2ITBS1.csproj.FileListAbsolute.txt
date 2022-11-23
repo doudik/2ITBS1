@@ -1,0 +1,17 @@
+C:\Users\miram\source\repos\2ITBS1\Zoo_2ITBS1\Zoo_2ITBS1\bin\Debug\net7.0-windows\Zoo_2ITBS1.exe
+C:\Users\miram\source\repos\2ITBS1\Zoo_2ITBS1\Zoo_2ITBS1\bin\Debug\net7.0-windows\Zoo_2ITBS1.deps.json
+C:\Users\miram\source\repos\2ITBS1\Zoo_2ITBS1\Zoo_2ITBS1\bin\Debug\net7.0-windows\Zoo_2ITBS1.runtimeconfig.json
+C:\Users\miram\source\repos\2ITBS1\Zoo_2ITBS1\Zoo_2ITBS1\bin\Debug\net7.0-windows\Zoo_2ITBS1.dll
+C:\Users\miram\source\repos\2ITBS1\Zoo_2ITBS1\Zoo_2ITBS1\bin\Debug\net7.0-windows\Zoo_2ITBS1.pdb
+C:\Users\miram\source\repos\2ITBS1\Zoo_2ITBS1\Zoo_2ITBS1\obj\Debug\net7.0-windows\Zoo_2ITBS1.csproj.AssemblyReference.cache
+C:\Users\miram\source\repos\2ITBS1\Zoo_2ITBS1\Zoo_2ITBS1\obj\Debug\net7.0-windows\Zoo_2ITBS1.Form1.resources
+C:\Users\miram\source\repos\2ITBS1\Zoo_2ITBS1\Zoo_2ITBS1\obj\Debug\net7.0-windows\Zoo_2ITBS1.csproj.GenerateResource.cache
+C:\Users\miram\source\repos\2ITBS1\Zoo_2ITBS1\Zoo_2ITBS1\obj\Debug\net7.0-windows\Zoo_2ITBS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\source\repos\2ITBS1\Zoo_2ITBS1\Zoo_2ITBS1\obj\Debug\net7.0-windows\Zoo_2ITBS1.AssemblyInfoInputs.cache
+C:\Users\miram\source\repos\2ITBS1\Zoo_2ITBS1\Zoo_2ITBS1\obj\Debug\net7.0-windows\Zoo_2ITBS1.AssemblyInfo.cs
+C:\Users\miram\source\repos\2ITBS1\Zoo_2ITBS1\Zoo_2ITBS1\obj\Debug\net7.0-windows\Zoo_2ITBS1.csproj.CoreCompileInputs.cache
+C:\Users\miram\source\repos\2ITBS1\Zoo_2ITBS1\Zoo_2ITBS1\obj\Debug\net7.0-windows\Zoo_2ITBS1.dll
+C:\Users\miram\source\repos\2ITBS1\Zoo_2ITBS1\Zoo_2ITBS1\obj\Debug\net7.0-windows\refint\Zoo_2ITBS1.dll
+C:\Users\miram\source\repos\2ITBS1\Zoo_2ITBS1\Zoo_2ITBS1\obj\Debug\net7.0-windows\Zoo_2ITBS1.pdb
+C:\Users\miram\source\repos\2ITBS1\Zoo_2ITBS1\Zoo_2ITBS1\obj\Debug\net7.0-windows\Zoo_2ITBS1.genruntimeconfig.cache
+C:\Users\miram\source\repos\2ITBS1\Zoo_2ITBS1\Zoo_2ITBS1\obj\Debug\net7.0-windows\ref\Zoo_2ITBS1.dll
