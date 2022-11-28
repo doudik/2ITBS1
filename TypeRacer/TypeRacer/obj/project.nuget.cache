@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mPY0ahQQXMXf9oUESMDT6rGNhFa/IhNvQWx+LX9diqcGN/4ppx8fSmCfNyOJbeBS3ICZC0l0vxxgnnIeMkaLKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miram\\source\\repos\\2ITBS1\\2ITBS1\\TypeRacer\\TypeRacer\\TypeRacer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miram\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\miram\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\miram\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\miram\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\miram\source\repos\2ITBS1\2ITBS1\TypeRacer\TypeRacer\obj\Debug\net6.0-windows\TypeRacer.csproj.AssemblyReference.cache
+C:\Users\miram\source\repos\2ITBS1\2ITBS1\TypeRacer\TypeRacer\obj\Debug\net6.0-windows\TypeRacer.Form1.resources
+C:\Users\miram\source\repos\2ITBS1\2ITBS1\TypeRacer\TypeRacer\obj\Debug\net6.0-windows\TypeRacer.csproj.GenerateResource.cache
+C:\Users\miram\source\repos\2ITBS1\2ITBS1\TypeRacer\TypeRacer\obj\Debug\net6.0-windows\TypeRacer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\source\repos\2ITBS1\2ITBS1\TypeRacer\TypeRacer\obj\Debug\net6.0-windows\TypeRacer.AssemblyInfoInputs.cache
+C:\Users\miram\source\repos\2ITBS1\2ITBS1\TypeRacer\TypeRacer\obj\Debug\net6.0-windows\TypeRacer.AssemblyInfo.cs
+C:\Users\miram\source\repos\2ITBS1\2ITBS1\TypeRacer\TypeRacer\obj\Debug\net6.0-windows\TypeRacer.csproj.CoreCompileInputs.cache
+C:\Users\miram\source\repos\2ITBS1\2ITBS1\TypeRacer\TypeRacer\bin\Debug\net6.0-windows\TypeRacer.exe
+C:\Users\miram\source\repos\2ITBS1\2ITBS1\TypeRacer\TypeRacer\bin\Debug\net6.0-windows\TypeRacer.deps.json
+C:\Users\miram\source\repos\2ITBS1\2ITBS1\TypeRacer\TypeRacer\bin\Debug\net6.0-windows\TypeRacer.runtimeconfig.json
+C:\Users\miram\source\repos\2ITBS1\2ITBS1\TypeRacer\TypeRacer\bin\Debug\net6.0-windows\TypeRacer.dll
+C:\Users\miram\source\repos\2ITBS1\2ITBS1\TypeRacer\TypeRacer\bin\Debug\net6.0-windows\TypeRacer.pdb
+C:\Users\miram\source\repos\2ITBS1\2ITBS1\TypeRacer\TypeRacer\obj\Debug\net6.0-windows\TypeRacer.dll
+C:\Users\miram\source\repos\2ITBS1\2ITBS1\TypeRacer\TypeRacer\obj\Debug\net6.0-windows\refint\TypeRacer.dll
+C:\Users\miram\source\repos\2ITBS1\2ITBS1\TypeRacer\TypeRacer\obj\Debug\net6.0-windows\TypeRacer.pdb
+C:\Users\miram\source\repos\2ITBS1\2ITBS1\TypeRacer\TypeRacer\obj\Debug\net6.0-windows\TypeRacer.genruntimeconfig.cache
+C:\Users\miram\source\repos\2ITBS1\2ITBS1\TypeRacer\TypeRacer\obj\Debug\net6.0-windows\ref\TypeRacer.dll
